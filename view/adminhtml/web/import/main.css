@@ -1,0 +1,9 @@
+
+.woocommerce-progress-form-wrapper .wc-progress-form-content .wc-importer-mapping-table .wc-importer-mapping-table-name .description {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.woocommerce-progress-form-wrapper .wc-progress-form-content .wc-importer-mapping-table .wc-importer-mapping-table-name .description code {
+  white-space: nowrap;
+}
